@@ -10,7 +10,7 @@ export default {};
 
 <style scoped>
 h1 {
-	color: lightblue;
+	color: lightgreen;
 	font-weight: 900;
 	margin: 2.5rem 0 1.5rem;
 }
